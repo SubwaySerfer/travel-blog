@@ -9,7 +9,7 @@ A modern travel blog platform built with Vue.js and FastAPI, allowing users to s
 - Location-based search with autocomplete for countries and cities
 - Interactive image slider for travel photos
 - Comments system
-- Multi-language support (EN, RU, TH)
+- Multi-language support (EN, RU)
 
 ### Technical Features
 - Rich text editor for post creation
